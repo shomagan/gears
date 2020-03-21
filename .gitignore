@@ -5,3 +5,5 @@
 !generator.blend
 !*.py
 !.gitignore
+!capellar.blend
+!script_test.blend
